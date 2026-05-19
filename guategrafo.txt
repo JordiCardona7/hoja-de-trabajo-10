@@ -1,0 +1,24 @@
+Guatemala Mixco 15
+Mixco Guatemala 15
+Guatemala Antigua 45
+Antigua Guatemala 45
+Mixco Antigua 30
+Antigua Escuintla 55
+Escuintla Antigua 55
+Escuintla SantaLucia 25
+SantaLucia Escuintla 25
+Antigua Chimaltenango 35
+Chimaltenango Antigua 35
+Chimaltenango Quetzaltenango 170
+Quetzaltenango Chimaltenango 170
+Quetzaltenango Mazatenango 95
+Mazatenango Quetzaltenango 95
+Mazatenango Escuintla 105
+Escuintla Guatemala 60
+Guatemala Coban 210
+Coban Guatemala 210
+Guatemala PuertoBarrios 295
+PuertoBarrios Guatemala 295
+Coban PuertoBarrios 260
+PuertoBarrios Coban 260
+
